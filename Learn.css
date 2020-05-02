@@ -1,0 +1,27 @@
+.active {
+    background-color: rgb(44, 148, 148);
+    /* font-family:t ; */
+}
+
+body {
+    margin: auto;
+    background-color: orange;
+    width: 450px;
+    height: 750px;
+}
+
+.btn {
+    margin: auto;
+    width: 200px;
+    height: 100px;
+    color: rgb(0, 255, 221);
+    background-color: rgb(163, 0, 0);
+    border-radius: 30px;
+}
+
+#dis {
+    display: grid;
+    content: "";
+    width: 450px;
+    height: 750px;
+}
